@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Python Project</string>
+    <string name="hello_world">Enter the function with parameters to be run!</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
